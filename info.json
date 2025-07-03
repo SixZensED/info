@@ -1,9 +1,13 @@
-[
+ [
   {
     "name": "Tanapat",
     "role": "Me",
     "image": "https://img2.pic.in.th/pic/460955552_1499263917385295_777125591078092603_n.jpg",
-    "description": "Tanapat Su-angkha"
+    "description": "Tanapat Su-angkha",
+    "email": "tanapat.works@gmail.com",
+    "phone": "096-753-0839"
+    "faculty": "Science at Sriracha",
+    "major": "Digital Science and Technology"
   },
   {
     "name": "Chattarin",
