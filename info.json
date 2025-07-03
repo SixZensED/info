@@ -13,12 +13,20 @@
     "name": "Chattarin",
     "role": "Friends",
     "image": "https://img5.pic.in.th/file/secure-sv1/128194756_1113319412419133_7648281564175216839_n.jpg",
-    "description": "Chattarin Kaewkotchasan"
+    "description": "Chattarin Kaewkotchasan",
+    "email": "chattarin.k@ku.th",
+    "phone": "-",
+    "faculty": "Science at Sriracha",
+    "major": "Digital Science and Technology"
   },
   {
     "name": "Phufa",
     "role": "Friends",
     "image": "https://img2.pic.in.th/pic/476424550_1628924304496520_9001580807966638100_n.jpg",
-    "description": "Phufa Srinatnava"
+    "description": "Phufa Srinatnava",
+    "email": "phufa.s@ku.th",
+    "phone": "-",
+    "faculty": "Science at Sriracha",
+    "major": "Digital Science and Technology"
   }
 ]
