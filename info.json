@@ -6,7 +6,7 @@
     "description": "Hello"
   },
   {
-    "name": "Chattarin ",
+    "name": "Chattarin",
     "role": "Friends",
     "image": "https://img5.pic.in.th/file/secure-sv1/128194756_1113319412419133_7648281564175216839_n.jpg",
     "description": "Hello"
@@ -17,3 +17,4 @@
     "image": "https://randomuser.me/api/portraits/women/44.jpg",
     "description": "Hello"
   }
+]
